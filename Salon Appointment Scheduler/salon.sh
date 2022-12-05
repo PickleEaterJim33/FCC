@@ -2,6 +2,8 @@
 
 PSQL="psql --username=freecodecamp --dbname=salon --tuples-only -c"
 
+# testcomment
+
 echo -e "\n~~~~~ MY SALON ~~~~~"
 
 MAIN_MENU() {
